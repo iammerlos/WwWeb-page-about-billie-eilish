@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 15px; /* Arriba; */
+}
+
+body { 
+    background: khaki;
+}
+#container {
+    width: 90%;
+    margin: opx auto;
+}
+#menu {
+    width: 40%;
+    margin: opx auto;
+}
+
+header h1 {
+    background: #b5997b;
+    height:  60px;
+    width:  75%;
+    line-height: 100px;
+    color: black;
+    border-bottom: 10px solid #915b2f;
+    font-size: 50px;
+}
+header h2 {
+    background: #b5997b;
+    height:  60px;
+    width:  100%;
+    line-height: 100px;
+    color: black;
+    border-bottom: 10px solid #915b2f;
+    font-size: 50px;
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.billie.eilish.jpeg {
+
+    width: 300;
+    margin-right: 25px;
+}
+.NTH h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenedor2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenedor8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+ul li{
+display: inline-block;
+padding: 30px;
+background-color: #b5997b;
+    border-color: black;
+}
+
+a{
+    color: black;
+    text-decoration: none ;
+}
